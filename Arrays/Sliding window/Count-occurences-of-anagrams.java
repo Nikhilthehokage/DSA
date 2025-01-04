@@ -1,3 +1,6 @@
+
+//GFG problem link - https://www.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/1
+
 class Count-occurences-of-anagrams {
 
     int search(String pat, String txt) {
